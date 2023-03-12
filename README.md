@@ -1,3 +1,3 @@
-# R-Sample-Work
+# R Sample Work
 
-This is
+This is a data exercise using R. The Report.pdf file consists of both codes and explanations.
